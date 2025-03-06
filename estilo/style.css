@@ -19,7 +19,7 @@ body{
 
 main{
     position: relative;
-    height: 97vh;
+    height: 90vh;
     
 }
 
@@ -30,7 +30,7 @@ section#telefone{
     transform: translate(-50%, -50%);
 
     height: 627px;
-    width: 250px;
+    width: 311px;
     background: url('../imagens/frame-iphone.png');
 }
 
@@ -42,6 +42,7 @@ iframe#tela{
     height: 471px;
 
 }
+
 section#redes-sociais{
     text-align: right;
 }
